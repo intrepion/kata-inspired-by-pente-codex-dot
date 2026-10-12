@@ -1,0 +1,8 @@
+# Implementation
+Applied the official Matt Pocock [Grill with Docs](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md) and [Implement](https://github.com/mattpocock/skills/blob/main/skills/engineering/implement/SKILL.md) definitions and their grilling, domain-modeling, TDD and code-review dependencies. User authorization to choose recommended defaults supersedes the interview/seam approval pauses; the resolved design tree and public seams are in SPEC.md. Glossary and concise ADRs capture the durable model.
+
+The opening tracer test was run red against permissive stubs, then green with the domain engine. AI tests were run red against a null-returning stub, then green with tactical selection. Subsequent edge and replay cases extended these seams; the full suite runs after review.
+
+`game.ts` is the pure rules boundary. `ai.ts` evaluates immediate wins and all legal defensive candidates (including cross-line captures), then uses up to twelve positionally ranked candidates and legal opponent replies. `worker.ts` isolates computation. `main.ts` handles rendering and persistence; replacement actions terminate the old worker and identity-check every response. CSS and system fonts supply the coastal visual identity without external fetches. Saved modes and coordinates are bounded and replayed atomically; no saved board or outcome is trusted.
+
+Standards review prompted a typed Stone union, derived area/center, a shared opening-zone predicate and readable source formatting. Spec review prompted explicit pending-worker, repeated action, mode/restart confirmation and reload Chrome checks.
