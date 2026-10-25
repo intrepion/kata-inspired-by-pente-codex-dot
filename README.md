@@ -22,3 +22,7 @@ Arrows navigate the board; Enter/Space place; Home/End jump within a row, Ctrl+H
 `npm test`, `npm run typecheck`, `npm run build`, `npm audit --audit-level=moderate`. GitHub Actions runs all four checks on pushes and pull requests. See [QA](docs/QA.md), [implementation](docs/IMPLEMENTATION.md), and [independent reviews](docs/REVIEW.md).
 
 The AI is a deterministic tactical practice partner, with exhaustive immediate win/defense checks and bounded reply scoring in a worker. It is not a tournament solver. No online multiplayer, audio, accounts, analytics, public hosting, or external assets. Physical touch/keyboard hardware and screen-reader speech were not tested.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-inspired-by-pente-codex-dot/)
