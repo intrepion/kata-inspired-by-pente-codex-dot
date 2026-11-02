@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "4b01c91780abf8d2134101c845a105066810b86f",
+  "sourceCommit": "ad7541195db524cc498192f963b9c7126f8d61e8",
+  "runId": "41406082484",
+  "url": "http://127.0.0.1:4224/",
+  "inputs": {
+    "index.html": "6ea830aa4b14052afb2dcdfb184803fa4f152055604c144eaa27c105559781fd",
+    "assets/index-8u32yi-t.css": "a89a2e8c3ba7c83c26863652d6e71e15851a91ef751c10e3035614d6c321b32c",
+    "assets/index-BtjF7j6S.js": "6872afa50f880d5e45b82a43709e71152237beb3c97d0fa1213bb49775427413",
+    "assets/worker-BhctOLgL.js": "eccb461f8061821d36ec04f3f664bbf75707af0aee2eb021302c5fa0bcccbaa5"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "screenshots": [
+    "tide-stone-01.png",
+    "tide-stone-02.png"
+  ]
+}

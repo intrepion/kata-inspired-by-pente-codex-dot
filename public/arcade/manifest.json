@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-pente-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-pente-codex-dot/",
   "screenshots": [
@@ -23,6 +23,48 @@
         "sourcePath": "docs/qa/line-win.jpg",
         "deployedBuild": null,
         "captureDate": null
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "b54adc7b5ff8c2b1cd38fd250ec53b872f04bd1252a91b0d508c320d98fa4649",
+      "alt": "Tide & Stone gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "862648b828e3e15568dd4a6b78999367648f0559b60b2d184928716fb158a13b",
+        "captureCommit": "ad7541195db524cc498192f963b9c7126f8d61e8",
+        "workflowRunId": "41406082484",
+        "inputHashes": {
+          "index.html": "6ea830aa4b14052afb2dcdfb184803fa4f152055604c144eaa27c105559781fd",
+          "assets/index-8u32yi-t.css": "a89a2e8c3ba7c83c26863652d6e71e15851a91ef751c10e3035614d6c321b32c",
+          "assets/index-BtjF7j6S.js": "6872afa50f880d5e45b82a43709e71152237beb3c97d0fa1213bb49775427413",
+          "assets/worker-BhctOLgL.js": "eccb461f8061821d36ec04f3f664bbf75707af0aee2eb021302c5fa0bcccbaa5"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "d9aa7ae73ead642246dee6fa8bd9e2f15563cdc6b1f458b8f3afde340221c648"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "5ff3f1f35211bc6c1eef4a0877253cdd1f48cac00287f593019896fec4f13740",
+      "alt": "Tide & Stone gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "178b7fb881adc65e76e632a1466bb293d065192240186eed15f2eb0e83273d75",
+        "captureCommit": "ad7541195db524cc498192f963b9c7126f8d61e8",
+        "workflowRunId": "41406082484",
+        "inputHashes": {
+          "index.html": "6ea830aa4b14052afb2dcdfb184803fa4f152055604c144eaa27c105559781fd",
+          "assets/index-8u32yi-t.css": "a89a2e8c3ba7c83c26863652d6e71e15851a91ef751c10e3035614d6c321b32c",
+          "assets/index-BtjF7j6S.js": "6872afa50f880d5e45b82a43709e71152237beb3c97d0fa1213bb49775427413",
+          "assets/worker-BhctOLgL.js": "eccb461f8061821d36ec04f3f664bbf75707af0aee2eb021302c5fa0bcccbaa5"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "d9aa7ae73ead642246dee6fa8bd9e2f15563cdc6b1f458b8f3afde340221c648"
       }
     }
   ]
