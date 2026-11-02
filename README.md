@@ -26,3 +26,7 @@ The AI is a deterministic tactical practice partner, with exhaustive immediate w
 ## Play online
 
 [Play the hosted game](https://intrepion.github.io/kata-inspired-by-pente-codex-dot/)
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.

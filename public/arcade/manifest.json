@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-inspired-by-pente-codex-dot",
+  "playUrl": "https://intrepion.github.io/kata-inspired-by-pente-codex-dot/",
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/view-01.jpg",
+      "sha256": "22214c56b034a13ab3510d1d7b69250c2f764a9c23b1e14b627134f0d890fb41",
+      "alt": "Completed game",
+      "provenance": {
+        "kind": "existing_repository_capture",
+        "sourcePath": "docs/qa/capture-win.jpg",
+        "deployedBuild": null,
+        "captureDate": null
+      }
+    },
+    {
+      "path": "arcade/screenshots/view-02.jpg",
+      "sha256": "3d0528e49c724d13e1ebd1c527e737a4758bc3544e72d0300c66f60a5475ef2f",
+      "alt": "Completed game",
+      "provenance": {
+        "kind": "existing_repository_capture",
+        "sourcePath": "docs/qa/line-win.jpg",
+        "deployedBuild": null,
+        "captureDate": null
+      }
+    }
+  ]
+}
